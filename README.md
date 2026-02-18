@@ -13,7 +13,7 @@ A clean and interactive **Happy Birthday website** built with modern animations 
 - **Smooth Page Transitions:** Fluid navigation between all pages for a polished feel.  
 - **3 Dedicated Pages:**
   - **Homepage:** Add the person's image and name with elegant animations.
-  - **Message Page:** A small heartfelt letter revealed after clicking **“From (Your Name)”**.
+  - **Message Page:** A small heartfelt letter revealed after clicking **“From (Afsuuu)”**.
   - **3D Letter Page:** Opens a fully animated **3D book-style letter** after clicking **“Open this (Friend’s Name)”**.
 - **Fully Responsive:** Works perfectly on mobile and desktop.
 - **Simple to Customize:** Change text, images, and names easily.
